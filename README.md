@@ -1,16 +1,15 @@
-### Hi there 👋
+### Nice to meet you, I'm Roberth 👋
 
-<!--
-**Roberth20/Roberth20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:nerd_face: Soy un apasionado de las ciencias, donde encuentro un particular interes en la fisica y sus aplicaciones en el mundo como lo conocemos.
 
-Here are some ideas to get you started:
+:zap: Mi mision profesional se enfoca en la busqueda de soluciones a problemas mediante el uso de datos y analisis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: Como profesional en Ciencia y analisis de datos estoy capacitado para:
+
+* Manipular, administrar y crear de bases de datos.
+* Desarrollar de estretegias para viables para solucionar un problema y definir los datos que se requieren para lograrlo.
+* Limpiar y transformar la informacion para su estudio.
+* Realizar analisis estadisticos y busquedas de patrones.
+* Ofrecer graficas y herramientas visuales para la comprension de aspectos tecnicos.
+* Construir modelos matematicos predictivos con precision y generalidad.
+* Redactar documentos e informes que resuman la investigacion desarrollada.
