@@ -1,8 +1,8 @@
 ### Nice to meet you, I'm Roberth 👋
 
-:nerd_face: Soy un apasionado de las ciencias, donde encuentro un particular interes en la fisica y sus aplicaciones en el mundo como lo conocemos.
+:nerd_face: Algo que me caracteriza es mi atraccion por la ciencia, donde encuentro un particular interes en la fisica y sus aplicaciones en el mundo como lo conocemos. Asi, la investigacion utilizando el metodo cientifico es mi forma favorita de enfrentar cualquier problema.
 
-:zap: Mi mision profesional se enfoca en la busqueda de soluciones a problemas mediante el uso de datos y analisis.
+:zap: Mi mision profesional se enfoca en la busqueda de soluciones a problemas mediante el uso de datos y de analisis cualitativos o cuantitativos, siempre siguiendo el enfoque de la ciencia.
 
 :computer: Como profesional en Ciencia y analisis de datos estoy capacitado para:
 
