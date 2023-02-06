@@ -1,15 +1,15 @@
 ### Nice to meet you, I'm Roberth 👋
 
-:nerd_face: Algo que me caracteriza es mi atraccion por la ciencia, donde encuentro un particular interes en la fisica y sus aplicaciones en el mundo como lo conocemos. Asi, la investigacion utilizando el metodo cientifico es mi forma favorita de enfrentar cualquier problema.
+:nerd_face: Something that characterizes me is my attraction to science, where I find a particular interest in physics and its applications in the world as we know it. Thus, research using the scientific method is my favorite way to approach any problem.
 
-:zap: Mi mision profesional se enfoca en la busqueda de soluciones a problemas mediante el uso de datos y de analisis cualitativos o cuantitativos, siempre siguiendo el enfoque de la ciencia.
+:zap: My professional mission focuses on the search for solutions to problems through the use of data and qualitative or quantitative analysis, always following the approach of science.
 
-:computer: Como profesional en Ciencia y analisis de datos estoy capacitado para:
+:computer: As a professional in Science and data analysis I am trained to:
 
-* Manipular, administrar y crear de bases de datos.
-* Desarrollar de estretegias para viables para solucionar un problema y definir los datos que se requieren para lograrlo.
-* Limpiar y transformar la informacion para su estudio.
-* Realizar analisis estadisticos y busquedas de patrones.
-* Ofrecer graficas y herramientas visuales para la comprension de aspectos tecnicos.
-* Construir modelos matematicos predictivos con precision y generalidad.
-* Redactar documentos e informes que resuman la investigacion desarrollada.
+* Manipulate, manage and create databases.
+* Development of viable strategies to solve a problem and define the data required to achieve it.
+* Clean and transform the information for its study.
+* Perform statistical analysis and search for patterns.
+* Offer graphics and visual tools for understanding technical aspects.
+* Build predictive mathematical models with precision and adaptability.
+* Write documents and reports that summarize the research carried out.
