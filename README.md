@@ -13,3 +13,6 @@
 * Offer graphics and visual tools for understanding technical aspects.
 * Build predictive mathematical models with precision and adaptability.
 * Write documents and reports that summarize the research carried out.
+
+
+![Codewars](https://github.r2v.ch/codewars?user=Roberth20&stroke=blue)
